@@ -6,6 +6,7 @@ You can deploy the smart contract on Remix online tool
 
 or 
 
+
 we can deploy in on the Hardhat Framework.
 
 ## Function Help
